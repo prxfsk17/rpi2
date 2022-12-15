@@ -1,0 +1,7 @@
+[
+    {"name": "Вальмен Аладов", "en-name" : "Valmen-Aladov", "photo" : "./card1.jpg", "path" : "/Valmen"},
+    {"name": "Игорь Белогорцев", "en-name" : "Igor-Belogortsev", "photo" : "./card2.jpg", "path" : "/Belogortsev"},
+    {"name": "Михаил Бакланов", "en-name" : "Mikhail-Baklanov", "photo" : "./card3.jpg", "path" : "/Baklanov"},
+    {"name": "Владимир Король", "en-name" : "Vladimir-Korol", "photo" : "./card4.jpg", "path" : "/Korol"},
+    {"name": "Георгий Заборский", "en-name" : "George-Zaborsky", "photo" : "./card5.jpg", "path" : "/Zaborsky"}
+]
